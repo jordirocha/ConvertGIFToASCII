@@ -25,7 +25,7 @@
 
 
 # About the Project
-ConvertGIFToASCII is a GUI program to convert our favorites GIF's into ASCII.<br/>
+ConvertGIFToASCII is a GUI program to convert our favorites GIF's into ASCII. 
 It's simple just select the file and then press "convert", after that a new terminal window will display it, showing the result.
 ## Project Directories
       │   .gitattributes
