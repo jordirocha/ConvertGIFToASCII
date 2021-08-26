@@ -1,6 +1,6 @@
 # ConvertGIFToASCII
 ConvertGIFToASCII is a GUI program to convert our favorite GIF's into ASCII.<br/>
-It's simple just select the file and then press "convert", after that a new terminal window will display showing the result.
+It's simple just select the file and then press "convert", after that a new terminal window will display it, showing the result.
 ## Project Directories
       │   .gitattributes
       │   main.py
@@ -22,7 +22,9 @@ It's simple just select the file and then press "convert", after that a new term
               convertToASCII.sh
               resultToGif.sh
               splitToFrames.sh
-## Dependencies to install
+## Requeriments
+
+## Dependencies from project
 
 ## How to run?
  
