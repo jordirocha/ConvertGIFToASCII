@@ -28,7 +28,8 @@ ConvertGIFToASCII is a GUI program to convert our favorites GIF's into ASCII.
 It's simple just select the file and then press "convert", after that a new terminal window will display it, showing the result.
 
 ### Built With
-
+* [Python)](https://www.python.org/)
+* Bash Shell
 
 ### Project Directories
       │   .gitattributes
