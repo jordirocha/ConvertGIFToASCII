@@ -15,7 +15,6 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Features](#features)
   * [Built With](#built-with)
   * [Project Directories](#project-directories)
 * [Getting Started](#getting-started)
@@ -24,10 +23,14 @@
 * [Contact](#contact)
 
 
-# About the Project
+## About the Project
 ConvertGIFToASCII is a GUI program to convert our favorites GIF's into ASCII. 
 It's simple just select the file and then press "convert", after that a new terminal window will display it, showing the result.
-## Project Directories
+
+### Built With
+
+
+### Project Directories
       │   .gitattributes
       │   main.py
       │   README.md
