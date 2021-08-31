@@ -44,7 +44,7 @@ It's simple just select the file and then press button convert, after that a new
         ├── resultToGif.sh
         └── splitToFrames.sh
 ## Requeriments
-
+* GNU/Linux Operating System
 ## Dependencies from project
 
 ## How to run?
