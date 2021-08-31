@@ -18,8 +18,8 @@
   * [Built With](#built-with)
   * [Project Directories](#project-directories)
 * [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
+  * [Dependencies](##dependencies-from-project)
+  * [Run app](#run-app)
 * [Contact](#contact)
 
 
