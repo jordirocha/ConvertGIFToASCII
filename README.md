@@ -56,4 +56,8 @@ I will bring you a script that make all this job, just execute it.
        $ ./dependencies.sh
        
 ### Run app
- 
+By command line:
+
+       python3 main.py
+       
+You can even execute like a shorcut, clicking on `main.py`.
