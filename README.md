@@ -18,7 +18,7 @@
   * [Built With](#built-with)
   * [Project Directories](#project-directories)
 * [Getting Started](#getting-started)
-  * [Dependencies](##dependencies-from-project)
+  * [Dependencies from Project](#dependencies-from-project)
   * [Run app](#run-app)
 * [Contact](#contact)
 
