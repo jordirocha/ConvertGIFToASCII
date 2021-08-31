@@ -18,14 +18,17 @@
   * [Built With](#built-with)
   * [Project Directories](#project-directories)
 * [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
+  * [Dependencies from Project](#dependencies-from-project)
+  * [Run app](#run-app)
 * [Contact](#contact)
 
 
-## About the Project
+### About the Project
+<div align="center">
+  <img src="https://github.com/jordirocha/ConvertGIFToASCII/blob/main/img/demo.gif" />
+</div>
 ConvertGIFToASCII is a GUI program to convert our favorites GIF's into ASCII. 
-It's simple just select the file and then press "convert", after that a new terminal window will display it, showing the result.
+It's simple just select the file and then press button convert, after that a new terminal window will display it, showing the result.
 
 ### Built With
 * [Python](https://www.python.org/)
@@ -40,9 +43,30 @@ It's simple just select the file and then press "convert", after that a new term
         ├── convertToASCII.sh
         ├── resultToGif.sh
         └── splitToFrames.sh
-## Requeriments
 
-## Dependencies from project
+## Getting Started
+To get a local copy up and running follow these simple example steps.
+### Dependencies from project
+Must install these packages to run it perfectly:
+* [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
+* [FFmpeg](https://github.com/FFmpeg/FFmpeg)
 
-## How to run?
+I will bring you a script that make all this job, just execute it.
+
+       $ ./dependencies.sh
+       
+### Run app
+By command line:
+
+       python3 main.py
+       
+You can even execute like a shorcut, clicking on `main.py`, by doing this first:
  
+       $ chmod +x main.py
+
+
+## Contact
+
+Jordi Rocha - [LinkedIn](https://es.linkedin.com/in/jordirocharocha) - jordirocharocha@gmail.com
+
+Project Link: [https://github.com/jordirocha/GameApp](https://github.com/jordirocha/GameApp/)
