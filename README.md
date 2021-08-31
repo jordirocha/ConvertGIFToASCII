@@ -32,26 +32,15 @@ It's simple just select the file and then press "convert", after that a new term
 * Bash Shell
 
 ### Project Directories
-      │   .gitattributes
-      │   main.py
-      │   README.md
-      │
-      ├───.idea
-      │   │   .gitignore
-      │   │   ConvertToASCII.iml
-      │   │   misc.xml
-      │   │   modules.xml
-      │   │
-      │   └───inspectionProfiles
-      │           profiles_settings.xml
-      │
-      ├───img
-      │       icon.png
-      │
-      └───scripts
-              convertToASCII.sh
-              resultToGif.sh
-              splitToFrames.sh
+├── gitignore
+├── img
+│   └── icon.png
+├── main.py
+├── README.md
+└── scripts
+    ├── convertToASCII.sh
+    ├── resultToGif.sh
+    └── splitToFrames.sh
 ## Requeriments
 
 ## Dependencies from project
