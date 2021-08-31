@@ -60,7 +60,10 @@ By command line:
 
        python3 main.py
        
-You can even execute like a shorcut, clicking on `main.py`.
+You can even execute like a shorcut, clicking on `main.py`, by doing this first:
+ 
+       $ chmod +x main.py
+
 
 ## Contact
 
