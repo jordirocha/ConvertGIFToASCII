@@ -46,6 +46,7 @@ It's simple just select the file and then press button convert, after that a new
 
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
+
 ### Dependencies from project
 Must install these packages to run it perfectly:
 * [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
