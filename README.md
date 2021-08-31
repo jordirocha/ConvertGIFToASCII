@@ -23,7 +23,7 @@
 * [Contact](#contact)
 
 
-## About the Project
+### About the Project
 <div align="center">
   <img src="https://github.com/jordirocha/ConvertGIFToASCII/blob/main/img/demo.gif" />
 </div>
@@ -43,9 +43,10 @@ It's simple just select the file and then press button convert, after that a new
         ├── convertToASCII.sh
         ├── resultToGif.sh
         └── splitToFrames.sh
-## Requeriments
-* GNU/Linux Operating System
-## Dependencies from project
 
-## How to run?
+## Getting Started
+To get a local copy up and running follow these simple example steps.
+### Dependencies from project
+
+### How to run?
  
