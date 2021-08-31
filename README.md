@@ -32,7 +32,6 @@ It's simple just select the file and then press "convert", after that a new term
 * Bash Shell
 
 ### Project Directories
-    ├── gitignore
     ├── img
     │   └── icon.png
     ├── main.py
