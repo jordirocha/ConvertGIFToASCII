@@ -25,7 +25,7 @@
 
 ## About the Project
 <div align="center">
-  <img src="https://github.com/jordirocha/GameApp/blob/main/src/public/img/demo.gif" />
+  <img src="https://github.com/jordirocha/ConvertGIFToASCII/blob/main/img/demo.gif" />
 </div>
 ConvertGIFToASCII is a GUI program to convert our favorites GIF's into ASCII. 
 It's simple just select the file and then press "convert", after that a new terminal window will display it, showing the result.
