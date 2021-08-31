@@ -61,3 +61,9 @@ By command line:
        python3 main.py
        
 You can even execute like a shorcut, clicking on `main.py`.
+
+## Contact
+
+Jordi Rocha - [LinkedIn](https://es.linkedin.com/in/jordirocharocha) - jordirocharocha@gmail.com
+
+Project Link: [https://github.com/jordirocha/GameApp](https://github.com/jordirocha/GameApp/)
