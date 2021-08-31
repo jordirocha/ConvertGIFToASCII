@@ -1,0 +1,7 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name = ConvertGIFToASCII
+Version = 1.0
+Exec = /home/jordi/Documentos/GitHub/ConvertGIFToASCII/main.py
+Icon = /home/jordi/Documentos/GitHub/ConvertGIFToASCII/img/icon.png
+Type = Application
