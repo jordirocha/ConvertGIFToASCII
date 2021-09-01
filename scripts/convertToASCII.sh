@@ -5,7 +5,6 @@ convertToASCII() {
   for image in $images; do
     ascii-image-converter "$image" -Cc
   done
-  sleep 1
 }
 
 convertToASCII
