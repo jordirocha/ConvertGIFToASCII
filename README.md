@@ -36,7 +36,9 @@ It's simple just select the file and then press button convert, after that a new
 * Bash Shell
 
 ### Project Directories
+    ├── dependencies.sh
     ├── img
+    │   ├── demo.gif
     │   └── icon.png
     ├── main.py
     ├── README.md
