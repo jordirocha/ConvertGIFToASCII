@@ -3,9 +3,9 @@
 convertToASCII() {
   local images="$(ls ./scripts/images/*.png)"
   for image in $images; do
-    ascii-image-converter "$image" -Ccf
+    ascii-image-converter "$image" -Cc
   done
-  sleep 2
+  sleep 1
 }
 
 convertToASCII
