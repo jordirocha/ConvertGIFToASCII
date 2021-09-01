@@ -18,7 +18,8 @@
   * [Built With](#built-with)
   * [Project Directories](#project-directories)
 * [Getting Started](#getting-started)
-  * [Dependencies from Project](#dependencies-from-project)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
   * [Run app](#run-app)
 * [Contact](#contact)
 
@@ -47,11 +48,12 @@ It's simple just select the file and then press button convert, after that a new
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
 
-### Dependencies from project
+### Prerequisites
 Must install these packages to run it perfectly:
 * [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
 * [FFmpeg](https://github.com/FFmpeg/FFmpeg)
 
+### Installation
 I will bring you a script that make all this job, just execute it.
 
        $ ./dependencies.sh
