@@ -64,7 +64,7 @@ By command line:
 
        python3 main.py
        
-You can even execute like a shorcut, clicking on `main.py`, by doing this first:
+You can even execute like a shorcut (only works on KDE distros), clicking on `main.py`, by doing this first:
  
        $ chmod +x main.py
 
